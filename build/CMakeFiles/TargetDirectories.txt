@@ -1,0 +1,5 @@
+/home/nuo/cpp1/build/CMakeFiles/main.dir
+/home/nuo/cpp1/build/CMakeFiles/edit_cache.dir
+/home/nuo/cpp1/build/CMakeFiles/rebuild_cache.dir
+/home/nuo/cpp1/build/src/CMakeFiles/edit_cache.dir
+/home/nuo/cpp1/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nuo/cpp1/build",
+  "command": "/usr/bin/g++  -I/home/nuo/cpp1/include -g -Wall -o CMakeFiles/main.dir/main.cpp.o -c /home/nuo/cpp1/main.cpp",
+  "file": "/home/nuo/cpp1/main.cpp"
+},
+{
+  "directory": "/home/nuo/cpp1/build",
+  "command": "/usr/bin/g++  -I/home/nuo/cpp1/include -g -Wall -o CMakeFiles/main.dir/src/swap.cpp.o -c /home/nuo/cpp1/src/swap.cpp",
+  "file": "/home/nuo/cpp1/src/swap.cpp"
+}
+]
